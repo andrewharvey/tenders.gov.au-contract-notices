@@ -2,6 +2,10 @@
 This package contains a set of shell scripts for working with the tenders.gov.au
 Contract Notice Exports at https://www.tenders.gov.au/?event=public.reports.listCNWeeklyExport
 
+Dependencies:
+
+    dos2unix make wget unzip libreoffice-calc
+
 # License
 All files within this repository are licensed by the author,
 Andrew Harvey<andrew.harvey4@gmail.com> as follows.
